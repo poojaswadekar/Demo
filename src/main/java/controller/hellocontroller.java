@@ -10,4 +10,10 @@ public class hellocontroller
         System.out.println("hello");
 
     }
+    public void message(){
+        System.out.println("hello");
+    }
+    public void message1(){
+        System.out.println("hello");
+    }
 }
