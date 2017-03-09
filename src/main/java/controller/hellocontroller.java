@@ -7,6 +7,7 @@ public class hellocontroller
 {
     public void methodx(){
         System.out.println("hello");
-        
+        System.out.println("hello");
+
     }
 }
